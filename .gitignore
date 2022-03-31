@@ -1,0 +1,4 @@
+# Ignore .ipynd dir
+.ipynb_checkpoints
+.idea
+__pycache__
